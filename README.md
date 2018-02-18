@@ -8,7 +8,7 @@ Below output is shown
 #Output
 
 ```
-"C:\Users\Zubair Ahmed\AppData\Local\Programs\Python\Python35\python.exe" "C:/Users/Zubair Ahmed/Downloads/Number-Plate-Recognition-master/Number-Plate-Recognition-master/Main.py"
+"/Number-Plate-Recognition-master/Main.py"
 Using TensorFlow backend.
 2018-02-18 21:46:56.094382: W C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
 1/1 [==============================] - 0s
