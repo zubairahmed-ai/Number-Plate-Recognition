@@ -178,7 +178,8 @@ if __name__ == "__main__":
 # 1/1 [==============================] - 0s
 # 3
 # 
-# license plate read from  C:\Users\Zubair Ahmed\Downloads\Number-Plate-Recognition-master\Number-Plate-Recognition-master/Test_images/538E945.jpg  : 38E945 
+# license plate read from  
+# /Test_images/538E945.jpg  : 38E945 
 # 
 # ----------------------------------------
 # 1/1 [==============================] - 0s
@@ -194,7 +195,8 @@ if __name__ == "__main__":
 # 1/1 [==============================] - 0s
 # 6
 # 
-# license plate read from  C:\Users\Zubair Ahmed\Downloads\Number-Plate-Recognition-master\Number-Plate-Recognition-master/Test_images/BKF196.jpg  : BKF196 
+# license plate read from  
+# /Test_images/BKF196.jpg  : BKF196 
 # 
 # ----------------------------------------
 # 1/1 [==============================] - 0s
@@ -212,7 +214,8 @@ if __name__ == "__main__":
 # 1/1 [==============================] - 0s
 # 7
 # 
-# license plate read from  C:\Users\Zubair Ahmed\Downloads\Number-Plate-Recognition-master\Number-Plate-Recognition-master/Test_images/489T051.jpg  : 489T057 
+# license plate read from  
+# /Test_images/489T051.jpg  : 489T057 
 # 
 # ----------------------------------------
 # 
