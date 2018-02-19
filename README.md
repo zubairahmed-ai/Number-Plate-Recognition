@@ -3,7 +3,7 @@ This repo is used to detect number plates in images
 
 This is based on https://github.com/Deevoluation/ALPR
 
-Please download and run the Main.py file
+Please download and run the [Main.py](https://github.com/zubairahmed-ai/Number-Plate-Recognition/blob/master/Main.py) file
 Below output is shown
 
 #Output
